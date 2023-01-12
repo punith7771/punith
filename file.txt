@@ -1,5 +1,10 @@
 hello
 new test
 2nd test line
+<<<<<<< HEAD
 
 end line
+=======
+remote repository
+REMOTE1
+>>>>>>> a42a8550a0550b7f4e01894fa8ffa14b6738f6e9
