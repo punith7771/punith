@@ -1,4 +1,8 @@
 hello
 new test
 2nd test line
+<<<<<<< HEAD
 test
+=======
+test2
+>>>>>>> f454913b2b2f53c36f43f832648d2e30c7353898
